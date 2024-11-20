@@ -11,6 +11,8 @@
 /*jslint nomen: true, plusplus: true, sloppy: true, vars: true, white: true */
 /*global window, document, navigator, clearInterval, setInterval */
 
+console.log("xxxasdsadxxx");
+
 var snowStorm = (function(window, document) {
 
     // --- common properties ---
